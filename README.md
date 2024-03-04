@@ -6,4 +6,4 @@ The program calculates the length of a string informed by the user without the u
 
 The program uses coding standards. 
 
-For testing and validation, please click the link: https://onlinegdb.com/HumjvCsML
+For testing and validation, please click the link: https://onlinegdb.com/JLdzMlv1L
